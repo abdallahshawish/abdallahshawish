@@ -1,68 +1,58 @@
-<!-- Your title -->
-## Hi, I'm Abdallah Shawish, a Mechatronics Engineer 🚀 from Jordan.
-
-<!-- Your badges -->
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://jo.linkedin.com/in/abdallah-shawish-634957256)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:abdallahshawesh25@gmail.com)
-[![IEEE](https://img.shields.io/badge/-IEEE-00629B?style=flat&logo=IEEE&logoColor=white)](https://www.ieee.org/)
-
-&nbsp;
-
-<!-- Talking about you -->
-**Talking about Personal Stuffs:**
-
-<!-- Any image aligned to the right. Beware the width -->
-<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
-
-- 👨🏽‍💻 I’m currently working as a faculty member at Zarqa University and developing advanced embedded systems[cite: 1];
-- 🌱 I’m currently advancing my skills in Advanced C & C++, and Embedded Firmware development; 
-- 🏆 Fun-Fact: I won the **Best Code Award** at the Jordan Sumo Robotics Competition 2026;
-- 👯 I’m looking to collaborate on Mechatronics and Robotics R&D projects 🤝;
-- 🤔 I’m looking for help with advanced real-time execution architectures;
-- 💬 Ask me about embedded systems, electronics design, and robotics, I am happy to help;
-- 📫 How to reach me: abdallahshawesh25@gmail.com[cite: 1];
-
-**Languages and Tools:** 
-
-<!-- Your github readme stats -->
-<p>
-  <a href="https://jo.linkedin.com/in/abdallah-shawish-634957256">
-    <img width="55%" align="right" alt="Abdallah's github stats" src="https://github-readme-stats.vercel.app/api?username=abdallahshawish&show_icons=true&hide_border=true" />
-  </a>
-
-  <!-- Your languages and tools -->
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/c/c-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/isocpp/isocpp-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
-  <br />
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/arduino/arduino-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
-  <br />
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/matlab/matlab-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/autodesk/autodesk-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/solidworks/solidworks-ar21.svg"></code>
-  <br />
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/ltspice/ltspice-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/linux/linux-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/raspberrypi/raspberrypi-ar21.svg"></code>
-</p>
-
-<!-- Your hits or visitors -->
-<p align="center">
-  <img alt="ViewCount" src="https://views.whatilearened.today/views/github/abdallahshawish/abdallahshawish.svg" />
-</p>
+<div align="center">
+  <h1>👋 Hello, I'm Abdallah Shawish</h1>
+  <p><b>Mechatronics Engineer | University Faculty Member | Embedded Systems Specialist</b></p>
+  
+  <p>
+    <a href="https://jo.linkedin.com/in/abdallah-shawish-634957256"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+    <a href="mailto:abdallahshawesh25@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+    <a href="https://www.ieee.org/"><img src="https://img.shields.io/badge/IEEE-00629B?style=for-the-badge&logo=ieee&logoColor=white" alt="IEEE"></a>
+  </p>
+</div>
 
 ---
 
-<!-- Its main projects -->
-<p align="center">
-  <a href="https://jo.linkedin.com/in/abdallah-shawish-634957256">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=abdallahshawish&repo=Sumo-Robot-Best-Code-2026" />
-  </a>
-  <a href="https://jo.linkedin.com/in/abdallah-shawish-634957256">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=abdallahshawish&repo=Smart-Security-Mobile-Robot" />
-  </a>
-</p>
+### 👨‍💻 About Me
 
-<!-- This readme was customized for Abdallah Shawish -->
+* 🏫 **Current Role:** Faculty Member at the Technical College, Zarqa University (Robotics & AI Department)[cite: 1].
+* 🎯 **Specialization:** Mechatronics Engineering, Electronic Circuit Design, and Advanced Embedded Systems[cite: 1].
+* 🚀 **Recent Growth:** Enhancing expertise in **Advanced C & C++ Programming** and low-level firmware architectures.
+* 🏆 **Recent Achievement:** Awarded **Best Code Award** at the Jordan Sumo Robotics Competition 2026 for developing advanced autonomous navigation algorithms in C++.
+* 📊 **Track Record:** Hands-on experience across 200+ engineering projects[cite: 1], backed by extensive teaching and community training (100+ workshops delivered)[cite: 1].
+
+---
+
+### 🛠️ Tech Stack & Tools
+
+| Category | Technologies / Tools |
+| :--- | :--- |
+| **Programming & Core** | `Advanced C`, `Modern C++`, `Embedded C`, `Python`, `Linux`[cite: 1] |
+| **Embedded & Microcontrollers** | `Arduino`, `ESP Microcontrollers`[cite: 1], `FPGA Systems`, `IoT`[cite: 1] |
+| **Electronics & PCB Design** | `Altium Designer`, `EasyEDA`, `Proteus`, `Multisim`, `Fritzing`[cite: 1] |
+| **Simulation & CAD** | `SolidWorks`, `Fusion 360`, `MATLAB`, `LabVIEW`, `AutoCAD Electrical`, `TIA Portal`[cite: 1] |
+| **Automation & Control** | `PLC`, `Classical Control`, `Fluid Control Systems`, `CNC`[cite: 1] |
+
+---
+
+### 🏆 Featured Projects & Milestones
+
+* **🤖 Jordan Sumo Robotics Competition (2026):** Winner of the **Best Code Award** for designing robust sensor-actuator control logic and high-performance navigation strategies written in C++.
+* **🛡️ Smart Security Mobile Robot (Graduation Project):** Led the complete electronic design of an autonomous security robot equipped with environmental monitoring sensors and IoT remote alerts[cite: 1].
+* **🌌 Space Robot (JoSDC'25):** Developed and implemented space-operation algorithms running on FPGA hardware boards[cite: 1].
+* **📚 Community Mentorship:** Created 8 technical guides and manuals on electronic circuit design to mentor students and peers[cite: 1].
+
+---
+
+### 📈 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=abdallahshawish&show_icons=true&hide_border=true&theme=radical" alt="Abdallah's GitHub Stats" />
+</div>
+
+<div align="center">
+  <img src="https://views.whatilearened.today/views/github/abdallahshawish/abdallahshawish.svg" alt="Profile Views" />
+</div>
+
+---
+<div align="center">
+  <i>"Bridging academic theory with practical engineering innovation."</i>
+</div>
